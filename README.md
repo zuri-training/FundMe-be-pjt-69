@@ -11,13 +11,13 @@ Parents nowadays finds it difficult to pay their children school fees and even s
  
 ## <a name="contribute"></a> Contribution Guide
 
-2. Go to [https://github.com/zuri-training/FundMe-be-pjt-69](https://github.com/zuri-training/FundMe-be-pjt-69) and fork the repo.
-3. After forking, go to your github page and Clone your forked repo. 
-4. Create a project folder on your local machine. 
-5. Navigate to it in the terminal. Run `git clone https://github.com/<your github username>/FundMe-be-pjt-69`.
-6. Create a branch for your task `git checkout -b <branchname>`.
-7. After changes : 
+1. Go to [https://github.com/zuri-training/FundMe-be-pjt-69](https://github.com/zuri-training/FundMe-be-pjt-69) and fork the repo.
+2. After forking, go to your github page and Clone your forked repo. 
+3. Create a project folder on your local machine. 
+4. Navigate to it in the terminal. Run `git clone https://github.com/<your github username>/FundMe-be-pjt-69`.
+5. Create a branch for your task `git checkout -b <branchname>`.
+6. After changes : 
 - git add .
 - git commit  -m "some comments"
 - git push origin `<name of your branch>`
-8. Create PR.
+7. Create PR.
