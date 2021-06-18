@@ -5,7 +5,8 @@ This is the backend of the product. Language used is PHP
 Parents nowadays finds it difficult to pay their children school fees and even some children do not have decent uniform or bags or books and some do not have seats. Fund Me is a platform where guardians can apply for student funds for their wards if they can not afford it.
 
 ### Note
- Create an issue before getting started on a task
+ - Create an issue before getting started on a task
+ - Work only on the [development branch](https://github.com/zuri-training/FundMe-be-pjt-69/tree/dev) for now
  
  
 ## <a name="contribute"></a> Contribution Guide
