@@ -22,6 +22,17 @@ Parents nowadays finds it difficult to pay their children school fees and even s
 - git push origin `<name of your branch>`
 8. Create PR.
 
+## Active Contributors
+ - [Joseph Bassey ](https://github.com/Josef-code)
+ - [Liz Modupeoluwa](https://github.com/Chanbang10)
+ - [Emmanuel Erhahon ](https://github.com/LeadIcons)
+ - [Micheal Okpisa](https://github.com/okpisajnr)
+ - [Umar Mukhtar](https://github.com/xceptiondev)
+ 
+## Requirements
+ - PHP v7.3.7 and above
+ - Mysql v5.1.1 and above
+
 # Backend team progress report
 
 Mon 21st June 2021. Almost everyone in the team has forked the repo and ready to start.
