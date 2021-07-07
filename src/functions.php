@@ -2,13 +2,11 @@
 
 require '../config/database.php';
 
-
-function donor_reg($fullname, $dob, $tel, $state, $city, $address, $addcode)
+// This function checks registers the beneficiary into the database
+function beneficiary_reg($fullname, $email, $password, $dob, $address, $country, $phone, $address, $addcode)
 {
-    $reg_stmt = "INSERT "
+    
 }
-
-
 
 
 ?>
