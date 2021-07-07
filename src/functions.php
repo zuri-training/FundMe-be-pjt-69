@@ -59,7 +59,7 @@ function login_beneficiary()
     // beneficiary found
     if (mysqli_num_rows($results) == 1) 
     {   
-        $_SESSION["user"] = $name;  // set session variable to donor name
+        $_SESSION["user"] = $name;  // set session variable to beneficiary name
         // redirect user to their dashboard
         header('location: index.html'); // redirect page needs to be corrected
     }
