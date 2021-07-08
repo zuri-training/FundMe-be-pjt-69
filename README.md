@@ -28,7 +28,7 @@ Parents nowadays finds it difficult to pay their children school fees and even s
  - [Emmanuel Erhahon ](https://github.com/LeadIcons)
  - [Micheal Okpisa](https://github.com/okpisajnr)
  - [Umar Mukhtar](https://github.com/xceptiondev)
- - [Stephen C. O. Ugbana] (https://github.com/StephenCOUgbana)
+ - [Stephen C. O. Ugbana](https://github.com/StephenCOUgbana)
  
 ## Requirements
  - PHP v7.3.7 and above
