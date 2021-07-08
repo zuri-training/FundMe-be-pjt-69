@@ -11,10 +11,12 @@ function beneficiary_reg($fullname, $email, $password, $dob, $address, $country,
 // This function logs in the donor
 function login_donor()
 {
+    global $db; 
+
    // initialize session
 	session_start();
 
-    // get donor log in values
+    // get donor log in details
 	$email = $_POST['email'];
 	$password = $_POST['password'];
     $name = $_POST['name'];
@@ -42,6 +44,8 @@ function login_donor()
 // This function logs in the beneficiary
 function login_beneficiary()
 {
+    global $db;  
+
     // initialize session
 	session_start();
 
