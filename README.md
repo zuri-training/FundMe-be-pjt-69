@@ -28,15 +28,10 @@ Parents nowadays finds it difficult to pay their children school fees and even s
  - [Emmanuel Erhahon ](https://github.com/LeadIcons)
  - [Micheal Okpisa](https://github.com/okpisajnr)
  - [Umar Mukhtar](https://github.com/xceptiondev)
+ - [Stephen C. O. Ugbana](https://github.com/StephenCOUgbana)
+
  
 ## Requirements
  - PHP v7.3.7 and above
  - Mysql v5.1.1 and above
 
-# Backend team progress report
-
-Mon 21st June 2021. Almost everyone in the team has forked the repo and ready to start.
-
-Mon 21st - Wed 23th June 2021. The backend team had a slight delay in the development process due to issues with project's user flow. The user flow wasn't correct logically so we requested for a change. 
-
-Thurs 24 June 2021. The sql table has been determined and ready to share.
