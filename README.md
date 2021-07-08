@@ -33,3 +33,4 @@ Parents nowadays finds it difficult to pay their children school fees and even s
 ## Requirements
  - PHP v7.3.7 and above
  - Mysql v5.1.1 and above
+
