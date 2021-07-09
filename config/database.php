@@ -1,4 +1,5 @@
 <?php
+session_start();
 // This file handles the database configuration for the fundme project.
 // Please stick to mysqli throughout the database operation
 
