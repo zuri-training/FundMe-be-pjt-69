@@ -21,3 +21,16 @@ Parents nowadays finds it difficult to pay their children school fees and even s
 - git commit  -m "some comments"
 - git push origin `<name of your branch>`
 8. Create PR.
+
+## Active Contributors
+ - [Joseph Bassey ](https://github.com/Josef-code)
+ - [Liz Modupeoluwa](https://github.com/Chanbang10)
+ - [Emmanuel Erhahon ](https://github.com/LeadIcons)
+ - [Micheal Okpisa](https://github.com/okpisajnr)
+ - [Umar Mukhtar](https://github.com/xceptiondev)
+ - [Stephen C. O. Ugbana] (https://github.com/StephenCOUgbana)
+ 
+## Requirements
+ - PHP v7.3.7 and above
+ - Mysql v5.1.1 and above
+
